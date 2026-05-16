@@ -1,8 +1,3 @@
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=81&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusBier702/MatheusBier702/output/pacman-contribution-graph-dark.svg">
@@ -51,8 +46,8 @@ Atualmente gosto de estudar desenvolvimento, criar projetos próprios e transfor
 ###
 
 <div align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusBier702&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusBier702&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusBier702&show_icons=true&theme=tokyonight&hide_border=true" height="500" /> 
+ 
 </div>
 
 ###
