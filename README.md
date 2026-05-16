@@ -21,7 +21,7 @@ Desenvolvedor em evolução, player de fighting game e alguém que provavelmente
 </h3>
 
 <p align="center">
-🎮 Jogador competitivo pela Comitê Games <br>
+🎮 Jogador competitivo de Fatal Fury <br>
 💻 Sempre criando alguma coisa nova.
 </p>
 
