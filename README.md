@@ -20,10 +20,17 @@
 Desenvolvedor em evolução, player de fighting game e alguém que provavelmente tá tentando sobreviver aos bugs da vida enquanto treina combo.
 </h3>
 
+
+<h2 align="center">Sobre mim</h2>
+
 <p align="center">
-🎮 Jogador competitivo de Fatal Fury <br>
-💻 Sempre criando alguma coisa nova.
+Me chamo Matheus, tenho 17 anos e curso Desenvolvimento de Sistemas na ETEC de Guaianases.  
+Entre códigos, projetos e noites tentando resolver bugs, vou construindo meu caminho na programação.  
+Além da tecnologia, também faço parte do cenário competitivo de fighting games, um ambiente que me ensinou disciplina, dedicação e evolução constante.  
+Atualmente gosto de estudar desenvolvimento, criar projetos próprios e transformar ideias aleatórias em algo funcional.
 </p>
+
+
 
 ###
 
