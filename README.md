@@ -7,8 +7,9 @@
 
 ###
 
-<h1 align="center">Olá! Eu sou o Matheus Bier 👾</h1>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+BIER" />
+</div>
 ###
 
 <h3 align="center">
